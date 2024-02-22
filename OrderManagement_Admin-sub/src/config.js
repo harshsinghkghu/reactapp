@@ -29,4 +29,4 @@ export const mapboxConfig = {
   apiKey: process.env.REACT_APP_MAPBOX_API_KEY
 };
 
-export const apiUrl = 'https://techmaadhyam.store/techmadhyam/';
+export const apiUrl = 'http://51.20.6.246:8080/dynamicapp/';
